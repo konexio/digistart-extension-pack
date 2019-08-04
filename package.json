@@ -14,5 +14,6 @@
         "CoenraadS.bracket-pair-colorizer",
         "peakchen90.open-html-in-browser",
         "wayou.vscode-todo-highlight"
-    ]
+    ],
+    "publisher": "darahak"
 }
