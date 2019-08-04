@@ -15,5 +15,9 @@
         "peakchen90.open-html-in-browser",
         "wayou.vscode-todo-highlight"
     ],
-    "publisher": "darahak"
+    "publisher": "darahak",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/konexio/digistart-extension-pack.git"
+    }
 }
