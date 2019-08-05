@@ -13,7 +13,9 @@
         "hnw.vscode-auto-open-markdown-preview",
         "CoenraadS.bracket-pair-colorizer",
         "peakchen90.open-html-in-browser",
-        "wayou.vscode-todo-highlight"
+        "wayou.vscode-todo-highlight",
+        "naumovs.color-highlight",
+        "oderwat.indent-rainbow"
     ],
     "publisher": "darahak",
     "repository": {
