@@ -2,14 +2,14 @@
     "name": "digistart-extension-pack",
     "displayName": "DigiStart Extension Pack",
     "description": "VS Code extension pack for DigiStart workshops",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.36.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "hnw.vscode-auto-open-markdown-preview",
         "CoenraadS.bracket-pair-colorizer",
         "peakchen90.open-html-in-browser",
